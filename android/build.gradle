@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'yy.inc.flutter_custom_dialog'
-    compileSdkVersion 28
+    compileSdkVersion 35
 
     defaultConfig {
         minSdkVersion 20
